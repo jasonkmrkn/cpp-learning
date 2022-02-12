@@ -1,3 +1,0 @@
-D:/Documents/02. Improve/Coding/C++/Curry C++/cmake-build-debug/CMakeFiles/Curry_C__.dir
-D:/Documents/02. Improve/Coding/C++/Curry C++/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/Documents/02. Improve/Coding/C++/Curry C++/cmake-build-debug/CMakeFiles/rebuild_cache.dir
