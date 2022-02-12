@@ -1,0 +1,1 @@
+Belum selesai, bikin logic untuk ngecheck apakah file bestscore udah ada atau belum.

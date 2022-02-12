@@ -1,0 +1,20 @@
+MULTIFILE COMPILATIONS
+
+There's the bare minimum of a program that split into multiple file.
+1. Header file --> the file extension is ".h". || Declarations
+2. Implementation file --> the file extension is ".cpp"|| Definitions
+3. Main file --> a file where we use the other two. The file extension is ".cpp". (usually it's only 1 main file) || Calling
+
+-headers file need to be included in both implementation and main file.
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+|-----------|                  |----------------------------|
+|   Main    |       Using      |       Header File          |
+|           |<<<<<<<<<<<<<<<<--|----------------------------|
+|   File    |                  |   Implementation File      |
+|___________|                  |----------------------------|
+                                             |
+                                             |
+                                             |--> header & implementation file is in the same library if we make a function library that other ppl could use by just including the library.
+
+

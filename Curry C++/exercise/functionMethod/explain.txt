@@ -1,0 +1,6 @@
+There's different type of function such as : 
+1. Function --> the standard function that stand alone.
+2. Method --> a function that attach to an object.
+3. Static Method --> a function that attach to a class.
+4. Constructor Function --> a function that called when an object is created from a class. Doesn't have a return type. tes
+5. Destructor --> a function to clean an object.
