@@ -6,6 +6,9 @@ There's the bare minimum of a program that split into multiple file.
 3. Main file --> a file where we use the other two. The file extension is ".cpp". (usually it's only 1 main file) || Calling
 
 -headers file need to be included in both implementation and main file.
+-compile using g++ "g++ file_name.extension file_name.extension"
+-we can use "-c" when compiling to get the ".o" file or object file and then compile it so the source code is hidden.
+"g++ -c file_name.extension file_name.extension"
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 |-----------|                  |----------------------------|
