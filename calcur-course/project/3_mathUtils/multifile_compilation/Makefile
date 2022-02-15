@@ -1,11 +1,11 @@
-math: main.o utils.o
-	g++ main.o utils.o -o math
+math: math_stuff.o math_utils.o
+	g++ math_stuff.o math_utils.o -o math
 
-main.o: math_stuff.cpp
-	g++ -c main.cpp
+math_stuff.o: math_stuff.cpp
+	g++ -c math_stuff.cpp
 
-utils.o: math_utils.cpp
-	g++ -c utils.cpp
+math_utils.o: math_utils.cpp
+	g++ -c math_utils.cpp
 
 clean:
 	rm *.o math

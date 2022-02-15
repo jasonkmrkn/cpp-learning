@@ -3,23 +3,25 @@
 
 #include "math_utils.h"
 
-double area(double length, double width){
-    return length*width;
-}
-
-double area(double length){
-    return length*length;
-}
-
-double area(Rectangle rectangle){
-    return rectangle.length*rectangle.width;
-}
-
-//we moved the default value to the header file.
-double pow(double base, int power /*= 2*/){
-    int total = 1;
-    for(int i = 0; i < power; i++){
-        total *= base;
+namespace utils{
+    double area(double length, double width){
+        return length*width;
     }
-    return total;
+
+    double area(double length){
+        return length*length;
+    }
+
+    double area(Rectangle rectangle){
+        return rectangle.length*rectangle.width;
+    }
+
+    //we moved the default value to the header file.
+    double pow(double base, int power /*= 2*/){
+        double total = 1;
+        for(int i = 0; i < power; i++){
+            total *= base;
+        }
+        return total;
+    }
 }
