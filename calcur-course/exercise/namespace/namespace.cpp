@@ -10,5 +10,5 @@ void printArray(const int data[], int size){
 
 int main(){
     int data[] = {1, 2, 3};
-    printArray(data);
+    printArray(data, 3);
 }
