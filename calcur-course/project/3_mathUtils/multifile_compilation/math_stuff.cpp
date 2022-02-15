@@ -1,5 +1,5 @@
 #include <iostream>
-#include "utils.h"
+#include "math_utils.h"
 
 int main() {
       std::cout << pow(3,3) << std::endl;

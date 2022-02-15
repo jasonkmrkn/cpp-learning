@@ -1,10 +1,10 @@
 math: main.o utils.o
 	g++ main.o utils.o -o math
 
-main.o: main.cpp
+main.o: math_stuff.cpp
 	g++ -c main.cpp
 
-utils.o: utils.cpp
+utils.o: math_utils.cpp
 	g++ -c utils.cpp
 
 clean:

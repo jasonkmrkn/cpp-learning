@@ -1,7 +1,7 @@
 //functions definitions
-//if any of this functions are using the std library, you need to include it.
+//if any of these functions are using the std library, you need to include it.
 
-#include "utils.h"
+#include "math_utils.h"
 
 double area(double length, double width){
     return length*width;
