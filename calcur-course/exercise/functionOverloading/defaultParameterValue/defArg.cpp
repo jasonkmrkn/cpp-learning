@@ -6,7 +6,7 @@
 
 //we can use the default parameter value instead, to give a default value to int power.
 double pow(double base, int power = 2){
-    int total = 1;
+    double total = 1;
     for(int i = 0; i < power; i++){
         total *= base;
     }
