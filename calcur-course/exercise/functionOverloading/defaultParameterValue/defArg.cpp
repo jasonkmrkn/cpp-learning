@@ -1,6 +1,6 @@
 #include <iostream>
 
-//figure it out, if a function could just use a default parameter value or if it needs Overloading.
+//figure it out, if a function could just use a default parameter value or if it needs OverloadingTemplates.
 // prioritize to use default arguments first because it's more simple than overloading a function.
 
 
