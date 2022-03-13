@@ -41,3 +41,13 @@ struct coordinate{
     int y;
 };
 ```
+
+---
+### Classes & Objects 
+What is a class? 
+>A class defines the structure or the shape of some data. Or more 
+simply, when we build a class it's like we're building our own "type", such as 
+**int**, **std::string**, etc. We can treat our own "type" like any other types.
+And our "type" functionality is defined by the class.
+> ![img_1.png](img_1.png)
+

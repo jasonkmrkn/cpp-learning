@@ -1,12 +1,13 @@
 # ninja log v5
 5	656	6677544526415194	CMakeFiles/cpp_learning.dir/calcur-course/project/3_mathUtils/multifile_compilation/math_utils.cpp.obj	832c4b3a6c40b49f
+105	2076	6677544540856261	CMakeFiles/cpp_learning.dir/calcur-course/exercise/iostream/istream.cpp.obj	604b4181ddee5011
 37	1887	6677544539426174	CMakeFiles/cpp_learning.dir/calcur-course/exercise/constModifier/constModifier.cpp.obj	b208a35210700b07
+1992	3971	6677544560197687	CMakeFiles/cpp_learning.dir/calcur-course/exercise/tes.cpp.obj	2fd0019e36958510
+7064	8848	6677544609431321	CMakeFiles/cpp_learning.dir/calcur-course/project/1_GuessGame/guessGame_vector.cpp.obj	9117add801a0aeea
 58	1951	6677544539666175	CMakeFiles/cpp_learning.dir/calcur-course/exercise/functionOverloading/defaultParameterValue/defArg.cpp.obj	c0fbe9f1b9f2015
 91	1991	6677544540456229	CMakeFiles/cpp_learning.dir/calcur-course/exercise/collections/collections.cpp.obj	ce890b4115dacb0c
-105	2076	6677544540856261	CMakeFiles/cpp_learning.dir/calcur-course/exercise/iostream/istream.cpp.obj	604b4181ddee5011
 73	2513	6677544545346593	CMakeFiles/cpp_learning.dir/calcur-course/exercise/collections/collections2.cpp.obj	7506001f6b6cd2
 658	3623	6677544556197390	CMakeFiles/cpp_learning.dir/calcur-course/exercise/iostream/ostream.cpp.obj	2cc5f0bad8eefc94
-1992	3971	6677544560197687	CMakeFiles/cpp_learning.dir/calcur-course/exercise/tes.cpp.obj	2fd0019e36958510
 1953	4053	6677544560727729	CMakeFiles/cpp_learning.dir/calcur-course/exercise/functionOverloading/functionOverloading.cpp.obj	4406967bb7e7773e
 1937	4075	6677544560357697	CMakeFiles/cpp_learning.dir/calcur-course/exercise/functionOverloading/mathOverloading.cpp.obj	dc2c3546ca5802d7
 2096	4401	6677544564358009	CMakeFiles/cpp_learning.dir/calcur-course/exercise/swapVar.cpp.obj	ead1ecc64770af2f
@@ -22,4 +23,3 @@
 6242	8385	6677544604620966	CMakeFiles/cpp_learning.dir/calcur-course/project/1_GuessGame/with_best_score/guessGame_vector_bestscore.cpp.obj	180838d8820bf482
 6389	8506	6677544606021057	CMakeFiles/cpp_learning.dir/calcur-course/project/2_enhanceGuessGame/guessGame_vector_bestscore.cpp.obj	6b4e0fc9167895e4
 6076	8643	6677544607371161	CMakeFiles/cpp_learning.dir/calcur-course/exercise/iterators.cpp.obj	a52d52a78ca16c49
-7064	8848	6677544609431321	CMakeFiles/cpp_learning.dir/calcur-course/project/1_GuessGame/guessGame_vector.cpp.obj	9117add801a0aeea
